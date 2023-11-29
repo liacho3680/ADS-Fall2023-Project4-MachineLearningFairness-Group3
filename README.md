@@ -7,7 +7,7 @@ Term: Fall 2023
 + Team #3
 + Project title: Machine Learning Fairness
 + Team members
-	+ Shreya Varma (sv2631)
+	+ Shreya Verma (sv2631)
 	+ Lia Cho (lc3683)
 	+ Chencan Zou (cz2675)
 	+ Jason Cho (yc4076)
@@ -17,7 +17,11 @@ Term: Fall 2023
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-SV and JC worked on replicating the algorithm from the paper, (A1) Learning fair representations (LFR). ZW and JS worked on replicating the algorithm from the paper, (A6) Handling Conditional Discrimination (LM and LPS). CZ worked on the reports and LC worked on the presentation. LC worked on the github organization and readme file.
+ZW and JS worked on replicating the algorithm from the paper, (A6) Handling Conditional Discrimination (LM and LPS).
+
+SV and JC began by importing the data and following an official data wrangling and cleaning guide to ensure data readiness for analysis. Subsequently, they partitioned the prepared data into training and test sets. Then, collectively, SV and JC coded the "A1: Learning Fair Representations" paper's formulas and created functions for loss calculation. Finally, they computed accuracy and runtime on the test data, intending to compare these metrics with the A6 results.
+
+CZ has completed the writing of two reports, including "A1: Learning Fair Representations" and "A6: Handling Conditional Discrimination (LM and LPS)." These reports cover the introduction, analysis, and conclusion sections according to the output of the code. LC compiled the results and analysis into the presentation slide deck, along with organizing the files in the github repository and writing up the readme files for the appropriate folders. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
