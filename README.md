@@ -17,7 +17,7 @@ Term: Fall 2023
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-SV and JC worked on replicating the algorithm from the paper, (A1) Learning fair representations (LFR). ZW and JS worked on replicating the algorithm from the paper, (A6) Handling Conditional Discrimination (LM and LPS). LC and CZ worked on the report and LC and JC worked on the presentation. LC worked on the github organization and readme file.
+SV and JC worked on replicating the algorithm from the paper, (A1) Learning fair representations (LFR). ZW and JS worked on replicating the algorithm from the paper, (A6) Handling Conditional Discrimination (LM and LPS). CZ worked on the reports and LC worked on the presentation. LC worked on the github organization and readme file.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
