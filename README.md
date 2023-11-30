@@ -17,7 +17,7 @@ Term: Fall 2023
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-ZW and JS worked on replicating the algorithm from the paper, (A6) Handling Conditional Discrimination (LM and LPS).
+ZW and JS embarked on implementing the algorithm from the paper "A6: Handling Conditional Discrimination (LM and LPS)." Initially, they imported the dataset and rigorously followed standard procedures for data cleaning and preparation, ensuring the dataset was primed for analysis. They then divided this curated dataset into distinct training and testing subsets. Working collaboratively, ZW and JS replicated the core methodologies of Local Massaging (LM) and Local Preferential Sampling (LPS) as outlined in the A6 paper. They developed functions for both LM and LPS, applying these methods to the training data to address potential biases. After integrating these algorithms, they proceeded to train a logistic regression model, evaluating its performance in terms of accuracy and fairness on the test data, with the goal of assessing and comparing the effectiveness of the LM and LPS approaches in mitigating conditional discrimination.
 
 SV and JC began by importing the data and following an official data wrangling and cleaning guide to ensure data readiness for analysis. Subsequently, they partitioned the prepared data into training and test sets. Then, collectively, SV and JC coded the "A1: Learning Fair Representations" paper's formulas and created functions for loss calculation. Finally, they computed accuracy and runtime on the test data, intending to compare these metrics with the A6 results.
 
